@@ -1,0 +1,8 @@
+name: ToggleablePvP
+main: xyz.acrylicstyle.pvper.ToggleablePvPPlugin
+version: "1.0"
+depend:
+  - TomeitoLib
+commands:
+  pvp:
+    description: "toggles pvp mode"
